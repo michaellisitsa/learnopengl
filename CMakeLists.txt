@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5.1)
 project(learn_open_GL VERSION 0.0.1)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 find_package(glfw3 REQUIRED)
